@@ -14,7 +14,9 @@ Participants will
 
 ## symfinder references
 
-TBD
+* Main symfinder site (code): [https://github.com/DeathStar3/symfinder](https://github.com/DeathStar3/symfinder)
+* Symfinder demo site: [https://deathstar3.github.io/symfinder-demo/](https://deathstar3.github.io/symfinder-demo/)
+* Dockerized version of symfinder : [https://hub.docker.com/u/deathstar3](https://hub.docker.com/u/deathstar3)
 
 ## Plan
 
@@ -31,7 +33,7 @@ TBD
 * Density of symmetries
 * Visualization principles in symfinder
 
-* symfinder demo: see xxx for already presented demos
+symfinder demo: see [https://deathstar3.github.io/symfinder-demo/](https://deathstar3.github.io/symfinder-demo/) for already presented demos
 
 ### Part 2 - symfinder: first contact
 
@@ -52,7 +54,7 @@ Lab:
 * Accessing the visualization
 * Browing and identifying variability (group work and exchange)
 
-* Remote execution of symfinder, in case the attendee'setup is not compatible (TBD)
+Remote execution of symfinder, in case the attendee'setup is not compatible (TBD)
 
 ### Part 3 - Guided use of symfinder
 
@@ -60,7 +62,7 @@ Lab:
 
 * Application to *your* system
 
-* List of large subject systems (TBD)
+List of large subject systems (TBD)
 
 ### Part 4 - Exchange time
 
