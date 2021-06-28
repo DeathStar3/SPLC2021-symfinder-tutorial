@@ -1,37 +1,79 @@
-## Welcome to GitHub Pages
+# How I Met Your Implemented Variability: Identification in Object-Oriented Systems with symfinder
+### SPLC 2021 Tutorial (under submission)
 
-You can use the [editor on GitHub](https://github.com/DeathStar3/SPLC2021-symfinder-tutorial/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+#### [Johann Mortara](https://j-mortara.github.io/) — [Philippe Collet](https://www.i3s.unice.fr/Philippe_Collet/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![https://upload.wikimedia.org/wikipedia/commons/f/f5/CanaleteConstru%C3%A7%C3%A3o.png](https://upload.wikimedia.org/wikipedia/commons/f/f5/CanaleteConstru%C3%A7%C3%A3o.png)
 
-### Markdown
+With this tutorial, we aim to provide academics and practitioners a practical experience of how the symfinder toolchain can assist variability identification activities in variability-rich object-oriented systems maintained in a single code base.
+Participants will 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* learn about the underlying concepts of symfinder (i.e. symmetries in object-oriented mechanisms, density) and how they are used in the toolchain,
+* learn how to run a symfinder analysis on one or multiple projects, and
+* identify variability by interpreting the obtained visual results on both an example project and a project of their choice.
 
-```markdown
-Syntax highlighted code block
+## symfinder references
 
-# Header 1
-## Header 2
-### Header 3
+* Main symfinder site (code): [https://github.com/DeathStar3/symfinder](https://github.com/DeathStar3/symfinder)
+* Symfinder demo site: [https://deathstar3.github.io/symfinder-demo/](https://deathstar3.github.io/symfinder-demo/)
+* Dockerized version of symfinder : [https://hub.docker.com/u/deathstar3](https://hub.docker.com/u/deathstar3)
 
-- Bulleted
-- List
+## Plan
 
-1. Numbered
-2. List
+### Part 1 - Motivation and introduction to symfinder
 
-**Bold** and _Italic_ and `Code` text
+* Introduction
+* Feature location and feature identification: challenges and impact
+* Identifying variability implementations in a OO codebase
+* Features, variation points and variants
+* Related work
+* Symmetries in object-oriented constructs
+* The theory of centers
+* symfinder principles for feature identification
+* Density of symmetries
+* Visualization principles in symfinder
 
-[Link](url) and ![Image](src)
-```
+symfinder demo: see [https://deathstar3.github.io/symfinder-demo/](https://deathstar3.github.io/symfinder-demo/) for already presented demos
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Part 2 - symfinder: first contact
 
-### Jekyll Themes
+Presentation:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DeathStar3/SPLC2021-symfinder-tutorial/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Overview of the symfinder toolchain
+* Tour of symfinder install
+* Necessary yaml files (symfinder.yaml, experiments.yaml)
+* Running symfinder
+* Checking the output
+* Accessing the visualization
 
-### Support or Contact
+Lab:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Environment checking among attendees
+* Docker installation (if needed)
+* Running symfinder analysis on the example project
+* Accessing the visualization
+* Browing and identifying variability (group work and exchange)
+
+Remote execution of symfinder, in case the attendee'setup is not compatible (TBD)
+
+### Part 3 - Guided use of symfinder
+
+Lab: 
+
+* Application to *your* system
+
+List of large subject systems (TBD)
+
+### Part 4 - Exchange time
+
+Outline:
+
+*  Sharing time of the conducted analyses on the different attendees' systems
+*  Exchange time on observed variability implementations and architectures
+*  Discussion on the usage of the different features of the symfinder visualization
+*  Feedback time on the experience and possible improvements
+
+## Links
+
+* Sharing space for the visualizations (TBD)
+* Tutorial's hall of fame (TBD)
