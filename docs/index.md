@@ -12,6 +12,19 @@ Participants will
 * learn how to run a symfinder analysis on one or multiple projects, and
 * identify variability by interpreting the obtained visual results on both an example project and a project of their choice.
 
+## Presentation of symfinder
+
+### Organization of the toolchain
+
+[![toolchain](img/toolchain.png)](img/toolchain.png)
+_Click on the image to view full size_
+
+### Organization of the toolchain
+
+[![toolchain](img/visualization.png)](img/visualization.png)
+_Click on the image to view full size_
+
+
 ## symfinder references
 
 * Main symfinder site (code): [https://github.com/DeathStar3/symfinder](https://github.com/DeathStar3/symfinder)
