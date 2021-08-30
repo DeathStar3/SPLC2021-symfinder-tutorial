@@ -1,9 +1,7 @@
 # How I Met Your Implemented Variability: Identification in Object-Oriented Systems with symfinder
-### SPLC 2021 Tutorial (under submission)
+### SPLC 2021 Tutorial
 
 #### [Johann Mortara](https://j-mortara.github.io/) — [Philippe Collet](https://www.i3s.unice.fr/Philippe_Collet/)
-
-![https://upload.wikimedia.org/wikipedia/commons/f/f5/CanaleteConstru%C3%A7%C3%A3o.png](https://upload.wikimedia.org/wikipedia/commons/f/f5/CanaleteConstru%C3%A7%C3%A3o.png)
 
 With this tutorial, we aim to provide academics and practitioners a practical experience of how the symfinder toolchain can assist variability identification activities in variability-rich object-oriented systems maintained in a single code base.
 Participants will 
