@@ -1,5 +1,5 @@
 # How I Met Your Implemented Variability: Identification in Object-Oriented Systems with symfinder
-### SPLC 2021 Tutorial (under submission)
+### SPLC 2021 Tutorial
 
 #### [Johann Mortara](https://j-mortara.github.io/) — [Philippe Collet](https://www.i3s.unice.fr/Philippe_Collet/)
 
