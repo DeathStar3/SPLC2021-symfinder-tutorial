@@ -49,14 +49,6 @@ We can note that we find elements of variability similar to Java AWT's, which ca
 
 We can also see that 3D shapes do not share any inheritance relationship with classes corresponding to 2D figures.
 
-### JUnit
-
-[JUnit](https://junit.org/junit4/) is a unit testing framework for Java. Its source code is concentrated in [a unique repository](https://github.com/junit-team/junit4/tree/r4.12).
-
-![JUnit](subject-systems-screenshots/junit.png)
-
-Most of JUnit is an engine which runs unit tests. This explains why we do not find many variability implementations in the resulting visualization.
-
 ### ArgoUML
 
 [ArgoUML](http://argouml-spl.tigris.org/) is an application allowing the user to build UML diagrams. It supports all standard UML 1.4 diagrams.
