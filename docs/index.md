@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - [Objectives](#objectives)
+- [Prerequisites](#prerequisites)
 - [Plan](#plan)
 - [References](#references)
 
@@ -16,6 +17,11 @@ Participants will
 * learn about the underlying concepts of symfinder (i.e. symmetries in object-oriented mechanisms, density) and how they are used in the toolchain,
 * learn how to run a symfinder analysis on one or multiple projects, and
 * identify variability by interpreting the obtained visual results on both an example project and a project of their choice.
+
+## Prerequisites
+
+* Although symfinder also supports Windows systems, a machine running on either Linux or Mac is preferred;
+* A functional Docker install.
 
 ## Plan
 
@@ -60,6 +66,7 @@ Remote execution of symfinder may be provided in case of problem with your machi
 Lab: 
 
 * Application to *your* system
+* 
 
 List of provided subject systems (TBD)
 
