@@ -71,8 +71,8 @@ This code refactor allows us to view some implementations of variability, after 
 - By zooming on the variant `FigStateVertex` (which represents an element of a state chart), we can distinguish variants of states such as the initial and final states, as well as shallow and deep history states.
  (which is itself a variation point as it represents )
 
-![ArgoUML states](splc2019-tool-screenshots/argoUML_state-elements.png)
+![ArgoUML states](subject-systems-screenshots/argoUML_state-elements.png)
 
 - The creation process of the different UML diagrams, achieved with factories inheritance.
 
-![ArgoUML factories (only vps)](splc2019-tool-screenshots/argoUML_factories.png)
+![ArgoUML factories (only vps)](subject-systems-tool-screenshots/argoUML_factories.png)
