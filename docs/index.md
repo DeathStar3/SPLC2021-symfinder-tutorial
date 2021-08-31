@@ -1,7 +1,14 @@
 # How I Met Your Implemented Variability: Identification in Object-Oriented Systems with symfinder
-### SPLC 2021 Tutorial
 
-#### [Johann Mortara](https://j-mortara.github.io/) — [Philippe Collet](https://www.i3s.unice.fr/Philippe_Collet/)
+## [Johann Mortara](https://j-mortara.github.io/) — [Philippe Collet](https://www.i3s.unice.fr/Philippe_Collet/)
+
+## Table of Contents
+
+- [Objectives](objectives)
+- [Plan](plan)
+- [symfinder references](symfinder-references)
+
+## Objectives
 
 With this tutorial, we aim to provide academics and practitioners a practical experience of how the symfinder toolchain can assist variability identification activities in variability-rich object-oriented systems maintained in a single code base.
 Participants will 
@@ -9,25 +16,6 @@ Participants will
 * learn about the underlying concepts of symfinder (i.e. symmetries in object-oriented mechanisms, density) and how they are used in the toolchain,
 * learn how to run a symfinder analysis on one or multiple projects, and
 * identify variability by interpreting the obtained visual results on both an example project and a project of their choice.
-
-## Presentation of symfinder
-
-### Organization of the toolchain
-
-[![toolchain](img/toolchain.png)](img/toolchain.png)
-_Click on the image to view full size_
-
-### Organization of the toolchain
-
-[![toolchain](img/visualization.png)](img/visualization.png)
-_Click on the image to view full size_
-
-
-## symfinder references
-
-* Main symfinder site (code): [https://github.com/DeathStar3/symfinder](https://github.com/DeathStar3/symfinder)
-* Symfinder demo site: [https://deathstar3.github.io/symfinder-demo/](https://deathstar3.github.io/symfinder-demo/)
-* Dockerized version of symfinder : [https://hub.docker.com/u/deathstar3](https://hub.docker.com/u/deathstar3)
 
 ## Plan
 
@@ -63,9 +51,9 @@ Lab:
 * Docker installation (if needed)
 * Running symfinder analysis on the example project
 * Accessing the visualization
-* Browing and identifying variability (group work and exchange)
+* Browsing and identifying variability (group work and exchange)
 
-Remote execution of symfinder, in case the attendee'setup is not compatible (TBD)
+Remote execution of symfinder may be provided in case of problem with your machine.
 
 ### Part 3 - Guided use of symfinder
 
@@ -73,7 +61,7 @@ Lab:
 
 * Application to *your* system
 
-List of large subject systems (TBD)
+List of provided subject systems (TBD)
 
 ### Part 4 - Exchange time
 
@@ -84,7 +72,31 @@ Outline:
 *  Discussion on the usage of the different features of the symfinder visualization
 *  Feedback time on the experience and possible improvements
 
-## Links
 
+## symfinder references
+
+### Figures
+
+#### Organization of the toolchain
+
+[![toolchain](img/toolchain.png)](img/toolchain.png)
+_Click on the image to view full size_
+
+#### Excerpts of visualizations
+
+**symfinder**
+[![toolchain](img/visualization-symfinder.png)](img/visualization-symfinder.png)
+_Click on the image to view full size_
+
+**symfinder-2**
+[![toolchain](img/visualization-symfinder-2.png)](img/visualization-symfinder-2.png)
+_Click on the image to view full size_
+
+
+### Links
+
+* Main symfinder site (code): [https://github.com/DeathStar3/symfinder](https://github.com/DeathStar3/symfinder)
+* symfinder demo site: [https://deathstar3.github.io/symfinder-demo/](https://deathstar3.github.io/symfinder-demo/)
+* Dockerized images : [https://hub.docker.com/u/deathstar3](https://hub.docker.com/u/deathstar3)
 * Sharing space for the visualizations (TBD)
 * Tutorial's hall of fame (TBD)
