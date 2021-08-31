@@ -68,7 +68,7 @@ Lab:
 * Application to *your* system
 * Discussion about identified variability implementations
 
-List of provided subject systems (TBD)
+[List of provided subject systems](subject-systems.md)
 
 ### Part 4 - Exchange time
 
