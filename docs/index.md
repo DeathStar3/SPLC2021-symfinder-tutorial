@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
-- [Objectives](objectives)
-- [Plan](plan)
-- [symfinder references](symfinder-references)
+- [Objectives](#objectives)
+- [Plan](#plan)
+- [References](#references)
 
 ## Objectives
 
@@ -73,7 +73,7 @@ Outline:
 *  Feedback time on the experience and possible improvements
 
 
-## symfinder references
+## References
 
 ### Figures
 
