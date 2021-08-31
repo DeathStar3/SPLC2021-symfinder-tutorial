@@ -2,6 +2,8 @@
 
 ## JFreeChart
 
+![JFreeChart experiment declaration](subject-systems-yaml/jfreechart-small.png)
+
 JFreeChart is a Java charting library which helps in drawing charts of all types.
 
 We observe in the visualization generated from this project the presence of variability at several places:
@@ -23,7 +25,9 @@ These detected variation points and variants can be linked to the features:
 ![Time periods](subject-systems-screenshots/jfreechart_time-periods.png)
 
 
-### Java 8 AWT
+## Java 8 AWT
+
+![AWT experiment declaration](subject-systems-yaml/awt-small.png)
 
 AWT (Abstract Window Toolkit) is Java's original toolkit to build graphics, windows and user interfaces, before Swing. Still, AWT is used as the core of Swing.
 
@@ -37,7 +41,9 @@ This is indeed the case when we analyze the visualization. Here is shown an exce
 
 ![Shapes](subject-systems-screenshots/awt_shapes.png)
 
-### JavaGeom
+## JavaGeom
+
+![JavaGeom experiment declaration](subject-systems-yaml/javageom-small.png)
 
 JavaGeom is a Java library that provides methods to easily perform geometric computations, such as intersections of lines, clipping of polygons, transformation shapes, perimeter and area computations.
 
@@ -49,7 +55,9 @@ We can note that we find elements of variability similar to Java AWT's, which ca
 
 We can also see that 3D shapes do not share any inheritance relationship with classes corresponding to 2D figures.
 
-### ArgoUML
+## ArgoUML
+
+![ArgoUML experiment declaration](subject-systems-yaml/argouml-small.png)
 
 [ArgoUML](http://argouml-spl.tigris.org/) is an application allowing the user to build UML diagrams. It supports all standard UML 1.4 diagrams.
 Its source code is available [here](https://github.com/marcusvnac/argouml-spl/tree/bcae37308b13b7ee62da0867a77d21a0141a0f18).
