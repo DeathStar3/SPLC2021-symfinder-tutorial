@@ -66,7 +66,7 @@ Remote execution of symfinder may be provided in case of problem with your machi
 Lab: 
 
 * Application to *your* system
-* 
+* Discussion about identified variability implementations
 
 List of provided subject systems (TBD)
 
