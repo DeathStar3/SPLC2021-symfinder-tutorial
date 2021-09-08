@@ -1,0 +1,25 @@
+2021-09-06 11:59:58.376 [main] MY_LEVEL Symfinder - Symfinder version: e0e6ee7d078da19274a66ae2ae689e62fa383598
+2021-09-06 12:00:51.840 [main] MY_LEVEL Symfinder - ClassesVisitor
+2021-09-06 12:05:57.163 [main] MY_LEVEL Symfinder - visitors.ClassesVisitor execution time: 00:05:05.307
+2021-09-06 12:05:57.169 [main] MY_LEVEL Symfinder - GraphBuilderVisitor
+2021-09-06 12:07:12.123 [main] MY_LEVEL Symfinder - visitors.GraphBuilderVisitor execution time: 00:01:14.948
+2021-09-06 12:07:12.127 [main] MY_LEVEL Symfinder - StrategyTemplateVisitor
+2021-09-06 12:11:14.592 [main] MY_LEVEL Symfinder - visitors.StrategyTemplateDecoratorVisitor execution time: 00:04:02.459
+2021-09-06 12:11:14.597 [main] MY_LEVEL Symfinder - FactoryVisitor
+2021-09-06 12:17:34.984 [main] MY_LEVEL Symfinder - visitors.FactoryVisitor execution time: 00:06:20.382
+2021-09-06 12:17:34.987 [main] MY_LEVEL Symfinder - ComposeTypeVisitor
+2021-09-06 12:25:38.415 [main] MY_LEVEL Symfinder - visitors.ComposeTypeVisitor execution time: 00:08:03.425
+2021-09-06 12:26:34.187 [main] MY_LEVEL Symfinder - Number of VPs: 926
+2021-09-06 12:26:34.228 [main] MY_LEVEL Symfinder - Number of methods VPs: 454
+2021-09-06 12:26:34.267 [main] MY_LEVEL Symfinder - Number of constructors VPs: 213
+2021-09-06 12:26:34.315 [main] MY_LEVEL Symfinder - Number of method level VPs: 667
+2021-09-06 12:26:34.348 [main] MY_LEVEL Symfinder - Number of class level VPs: 259
+2021-09-06 12:26:34.620 [main] MY_LEVEL Symfinder - Number of variants: 1923
+2021-09-06 12:26:34.659 [main] MY_LEVEL Symfinder - Number of methods variants: 1061
+2021-09-06 12:26:34.688 [main] MY_LEVEL Symfinder - Number of constructors variants: 587
+2021-09-06 12:26:34.728 [main] MY_LEVEL Symfinder - Number of method level variants: 1648
+2021-09-06 12:26:34.748 [main] MY_LEVEL Symfinder - Number of class level variants: 275
+2021-09-06 12:26:34.825 [main] MY_LEVEL Symfinder - Number of nodes: 9526
+2021-09-06 12:26:34.908 [main] MY_LEVEL Symfinder - Number of relationships: 11450
+2021-09-06 12:26:34.973 [main] MY_LEVEL Symfinder - Number of corrected inheritance relationships: 265/1478
+2021-09-06 12:26:50.429 [main] MY_LEVEL Symfinder - Total execution time: 00:26:52.052
