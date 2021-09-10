@@ -105,5 +105,4 @@ _Click on the image to view full size_
 * Main symfinder site (code): [https://github.com/DeathStar3/symfinder](https://github.com/DeathStar3/symfinder)
 * symfinder demo site: [https://deathstar3.github.io/symfinder-demo/](https://deathstar3.github.io/symfinder-demo/)
 * Dockerized images : [https://hub.docker.com/u/deathstar3](https://hub.docker.com/u/deathstar3)
-* Sharing space for the visualizations (TBD)
 * [Tutorial's hall of fame](hall_of_fame.md)
